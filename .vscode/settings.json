@@ -1,0 +1,21 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\logan\\esp\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\logan\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\logan\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.portWin": "COM4",
+    "idf.flashType": "UART",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32c6"
+    },
+    "idf.openOcdConfigs": [
+        "board/esp32c6-ftdi.cfg"
+    ],
+    "files.associations": {
+        "protocol_examples_common.h": "c",
+        "lvgl.h": "c",
+        "lv_init.h": "c",
+        "esp_log.h": "c",
+        "esp_err.h": "c"
+    }
+}
